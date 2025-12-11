@@ -1,6 +1,6 @@
 # Databricks notebook source
 Types of Data
-Properties of Data
+Properties of Data data
 
 Data Warehouse - Centralized repository which is optimized for analytics
 Data Lakes - Storage repository holds large datasets in it's own format
